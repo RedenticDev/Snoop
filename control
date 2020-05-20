@@ -1,0 +1,9 @@
+Package: com.redenticdev.snoop
+Name: Snoop
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11), ws.hbang.common (>= 1.11), com.tigisoftware.filza | eu.heinelt.ifile
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Open any app in a file manager
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Author: RedenticDev <redenticdev@gmail.com>
+Section: Tweaks
